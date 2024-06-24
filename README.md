@@ -41,7 +41,7 @@ Annual Income = 1000 && Monthly Costs = 80 = LOW
 You should create a form where the user will be able to inform his annual gross income and average monthly costs. When submitting the information, the user will be presented his financial wellness score.
 
 
-🧑‍🎨 You should follow this [Figma File]([https://www.figma.com/file/eysSLDJFaEgGRWqHTFVehu/Take-Home-Assignment-v3?node-id=0%3A1](https://www.figma.com/design/VjioJW8BHtC6poQjJSJUmE/Take-Home-Assignment?node-id=0-1&t=aJye8WoiUMJGKIaF-1)) for building your screens
+🧑‍🎨 You should follow this [Figma File](https://www.figma.com/design/VjioJW8BHtC6poQjJSJUmE/Take-Home-Assignment?node-id=0-1&t=aJye8WoiUMJGKIaF-1) for building your screens
 
 
 The form should validate:
